@@ -1,4 +1,4 @@
-# alura-docker
+# alr-docker
 App para exemplicar os seguintes conceitos cobertos no curso:
 
     1. App nodejs rodando em 3 containers.
